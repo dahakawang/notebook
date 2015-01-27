@@ -15,3 +15,7 @@ Elementary functions can represent many real world phenomena, concluded by mathe
 1. Different right & left behavior
 2. Unbounded behavior
 3. Oscillating behavior
+
+### Calculation of limits
+1. we use substitute method 
+2. if f(x)=g(x) except when x=c, then limit(fx)|x->c == limit(gx)|x->c
