@@ -18,4 +18,5 @@ Elementary functions can represent many real world phenomena, concluded by mathe
 
 ### Calculation of limits
 1. we use substitute method 
-2. if f(x)=g(x) except when x=c, then limit(fx)|x->c == limit(gx)|x->c
+2. if f(x)=g(x) except when x=c, then limit(fx)|x->c == limit(gx)|x->c (common dividor, rationalizing)
+3. squeenze theorem
