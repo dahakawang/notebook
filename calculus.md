@@ -23,5 +23,5 @@ Elementary functions can represent many real world phenomena, concluded by mathe
 
 ### Continuity at x = c means
 1. if f(c) is defined
-2. if limit(f(x)), when x=c is defined
-3. if limit(f(x)), x=c equals f(c)
+2. if ![](http://latex.codecogs.com/gif.latex?%5Clim_%7Bx%5Crightarrow%20c%7Df%28x%29)is defined
+3. if ![](http://latex.codecogs.com/gif.latex?%5Clim_%7Bx%5Crightarrow%20c%7Df%28x%29) = f(c)
