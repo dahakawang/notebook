@@ -20,3 +20,8 @@ Elementary functions can represent many real world phenomena, concluded by mathe
 1. we use substitute method 
 2. if f(x)=g(x) except when x=c, then limit(fx)|x->c == limit(gx)|x->c (common dividor, rationalizing)
 3. squeenze theorem
+
+### Continuity at x = c means
+1. if f(c) is defined
+2. if limit(f(x)), when x=c is defined
+3. if limit(f(x)), x=c equals f(c)
