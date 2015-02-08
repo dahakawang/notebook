@@ -27,5 +27,5 @@ Elementary functions can represent many real world phenomena, concluded by mathe
 3. if ![\lim_{x\rightarrow c}f(x)](http://latex.codecogs.com/gif.latex?%5Clim_%7Bx%5Crightarrow%20c%7Df%28x%29) = f(c)
 
 ### Left&Right limits
-1. the limits iexts if and only if the left and right limit on the same position
-2. the function is continuous on [a, b] if and only the function is continous on (a, b), and its left limit on x=b equals f(b) and its right limit on x=a equals f(a)
+1. the limit at a exist if and only if the left and right limit equals at a
+2. the function is continuous on [a, b] if and only the function is continous on (a, b), and its left limit at b equals f(b) and its right limit at a equals f(a)
