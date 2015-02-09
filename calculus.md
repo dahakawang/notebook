@@ -19,7 +19,7 @@ Elementary functions can represent many real world phenomena, concluded by mathe
 ### Calculation of limits
 1. we use substitute method 
 2. if f(x)=g(x) except when x=c, then limit(fx)|x->c == limit(gx)|x->c (common dividor, rationalizing)
-3. squeenze theorem
+3. squeenze theorem (f(x)=xsin(x) )
 
 ### Continuity at x = c means
 1. if f(c) is defined
@@ -27,5 +27,5 @@ Elementary functions can represent many real world phenomena, concluded by mathe
 3. if ![\lim_{x\rightarrow c}f(x)](http://latex.codecogs.com/gif.latex?%5Clim_%7Bx%5Crightarrow%20c%7Df%28x%29) = f(c)
 
 ### Left&Right limits
-1. the limit at a exist if and only if the left and right limit equals at a
+1. the limit at a exists if and only if the left and right limit equals at a
 2. the function is continuous on [a, b] if and only the function is continous on (a, b), and its left limit at b equals f(b) and its right limit at a equals f(a)
