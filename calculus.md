@@ -29,3 +29,6 @@ Elementary functions can represent many real world phenomena, concluded by mathe
 ### Left&Right limits
 1. the limit at a exists if and only if the left and right limit equals at a
 2. the function is continuous on [a, b] if and only the function is continous on (a, b), and its left limit at b equals f(b) and its right limit at a equals f(a)
+
+### The intermediate value theorem
+if f is continous on [a, b], and k is any number between f(a) and f(b), then there is at least one number c in [a, b], such that f(x)=k
