@@ -32,3 +32,7 @@ Elementary functions can represent many real world phenomena, concluded by mathe
 
 ### The intermediate value theorem
 if f is continous on [a, b], and k is any number between f(a) and f(b), then there is at least one number c in [a, b], such that f(x)=k
+
+
+### infinite limit
+![\lim_{x\rightarrow c}f(x)=\infty](http://latex.codecogs.com/gif.latex?%5Clim_%7Bx%5Crightarrow%20c%7Df%28x%29%3D%5Cinfty) means for any M, there exist a delta > 0 such that if 0 <= |x-c| <= delta then f(x) > M
