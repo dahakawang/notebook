@@ -36,4 +36,4 @@ if f is continous on [a, b], and k is any number between f(a) and f(b), then the
 
 ### infinite limit
 1. ![\lim_{x\rightarrow c}f(x)=\infty](http://latex.codecogs.com/gif.latex?%5Clim_%7Bx%5Crightarrow%20c%7Df%28x%29%3D%5Cinfty) means for any M, there exist a delta > 0 such that if 0 <= |x-c| <= delta then f(x) > M
-2. be sure to know that this mean the limit fail to exists
+2. be sure to know that this mean the limit fail to exist
