@@ -37,3 +37,7 @@ if f is continous on [a, b], and k is any number between f(a) and f(b), then the
 ### infinite limit
 1. ![\lim_{x\rightarrow c}f(x)=\infty](http://latex.codecogs.com/gif.latex?%5Clim_%7Bx%5Crightarrow%20c%7Df%28x%29%3D%5Cinfty) means for any M, there exist a delta > 0 such that if 0 <= |x-c| <= delta then f(x) > M
 2. be sure to know that this mean the limit fail to exist
+
+### Vertical Asymptote
+1. Defition: if f(x) approaches infinity as x approaches c, then x=c is said to be a vertical asymptote of f(x)
+2. Theorem: let g and f continous on an open interval containing c. if f(c)!=0 and g(c)=0, and there exists and open iterval containing c such that g(x) != 0 for all x in that interval, then h(x)=f(x)/g(x) has vertical asymptote at x = c.
