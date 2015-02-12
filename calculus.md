@@ -41,3 +41,7 @@ if f is continous on [a, b], and k is any number between f(a) and f(b), then the
 ### Vertical Asymptote
 1. Defition: if f(x) approaches infinity as x approaches c, then x=c is said to be a vertical asymptote of f(x)
 2. Theorem: let g and f continous on an open interval containing c. if f(c)!=0 and g(c)=0, and there exists and open iterval containing c such that g(x) != 0 for all x in that interval, then h(x)=f(x)/g(x) has vertical asymptote at x = c.
+
+
+
+# Deferentiate
