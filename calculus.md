@@ -44,4 +44,11 @@ if f is continous on [a, b], and k is any number between f(a) and f(b), then the
 
 
 
-# Deferentiate
+# Deferentiation
+
+### Tangent line with slop m
+If f is defined on a open interval containing c, and if the limit ![\lim_{\Delta x\rightarrow 0}\frac{\Delta y}{\Delta x}=\frac{f(x+\Delta x)-f(x)}{\Delta x}=m](http://latex.codecogs.com/gif.latex?%5Clim_%7B%5CDelta%20x%5Crightarrow%200%7D%5Cfrac%7B%5CDelta%20y%7D%7B%5CDelta%20x%7D%3D%5Cfrac%7Bf%28x&plus;%5CDelta%20x%29-f%28x%29%7D%7B%5CDelta%20x%7D%3Dm) exists,, then the line passing through (c, f(c)) with slop m is the **tangent line** to the f at x = c.
+
+
+### Derivative definition
+the **derivative** of f at x is ![f'(x)=\lim_{\Delta x\rightarrow 0}\frac{f(x+\Delta x)-f(x)}{\Delta x}](http://latex.codecogs.com/gif.latex?f%27%28x%29%3D%5Clim_%7B%5CDelta%20x%5Crightarrow%200%7D%5Cfrac%7Bf%28x&plus;%5CDelta%20x%29-f%28x%29%7D%7B%5CDelta%20x%7D) provided the limits exists. For all x for which this limit exists, f' is a function of x.
