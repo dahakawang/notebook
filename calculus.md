@@ -56,3 +56,10 @@ the **derivative** of f at x is ![f'(x)=\lim_{\Delta x\rightarrow 0}\frac{f(x+\D
 ### Note
 1. the **process** of finding derivative of function is called **differentiation**
 2. the derivative dose not cover the vertical tangent. should consider when the infinite limit exists.
+
+### Note2 (we can infer from down to up)
+1. unbound function, infinite limit
+2. has one side limit
+3. has 2 side limit (has limit)
+4. is continous
+5. is diffrentiable
