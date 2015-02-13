@@ -63,3 +63,8 @@ the **derivative** of f at x is ![f'(x)=\lim_{\Delta x\rightarrow 0}\frac{f(x+\D
 3. has 2 side limit (has limit)
 4. is continous
 5. is diffrentiable
+
+
+### cases when continous but not differentiable
+1. f(x)=|x|
+2. derivative is infinite
