@@ -53,7 +53,7 @@ If f is defined on a open interval containing c, and if the limit ![\lim_{\Delta
 ### Derivative definition
 the **derivative** of f at x is ![f'(x)=\lim_{\Delta x\rightarrow 0}\frac{f(x+\Delta x)-f(x)}{\Delta x}](http://latex.codecogs.com/gif.latex?f%27%28x%29%3D%5Clim_%7B%5CDelta%20x%5Crightarrow%200%7D%5Cfrac%7Bf%28x&plus;%5CDelta%20x%29-f%28x%29%7D%7B%5CDelta%20x%7D) provided the limits exists. For all x for which this limit exists, f' is a function of x.
 
-### Note
+### Notes
 1. the **process** of finding derivative of function is called **differentiation**
 2. the derivative dose not cover the vertical tangent. should consider when the infinite limit exists.
 
